@@ -12,6 +12,7 @@ Lokeshwaran Venugopal Balamurugan | 002990533 | 25%
 Sivaranjani S | 002742197 | 25% 
 
 # Link to Live Applications
+## Please Use these applications judiciously as we are running low on Free Credits, Deal ? 
 - Streamlit Application - http://34.138.127.169:8051
 - Airflow - http://34.138.127.169:8080
 - Codelabs - https://codelabs-preview.appspot.com/?file_id=13IiASFrZKI9m-6Wwch8DBNbi6ufG1J44GHJpRr1mhos#9
@@ -67,3 +68,5 @@ To run this project, you will need:
 - AWS_ACCESS_KEY=<aws_access_key> <- should be given in double quotes ("")
 - AWS_SECRET_KEY=<aws_secret_key> <- should be given in double quotes ("")
 - OPENAI_API_KEY=<openai_api_key> <- should be given in double quotes ("")
+- AWS_REGION=<AWS_REGION> <- should be given in double quotes ("")
+- S3_BUCKET_NAME=<S3_BUCKET_NAME> <- should be given in double quotes ("")
