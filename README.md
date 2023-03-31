@@ -1,4 +1,4 @@
-## Meeting Minds
+# Meeting Minds
 
 This project is a speech-to-text pipeline that can transcribe audio files and generate a transcript of the speech. The project can also answer default and custom question asked by the user using the GPT-3.5 Turbo model.
 
