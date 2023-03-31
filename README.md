@@ -106,3 +106,6 @@ To run this project, you will need:
 - OPENAI_API_KEY=<openai_api_key> <- should be given in double quotes ("")
 - AWS_REGION=<AWS_REGION> <- should be given in double quotes ("")
 - S3_BUCKET_NAME=<S3_BUCKET_NAME> <- should be given in double quotes ("")
+
+### ATTESTATION:
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK.
