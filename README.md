@@ -2,15 +2,6 @@
 
 This project is a speech-to-text pipeline that can transcribe audio files and generate a transcript of the speech. The project can also answer default and custom question asked by the user using the GPT-3.5 Turbo model.
 
-### Team Information and Contribution 
-
-Name | NUID | Contribution 
---- | --- | --- |
-Karan Agrawal | 001090008 | 25% 
-Rishabh Singh | 002743830 | 25% 
-Lokeshwaran Venugopal Balamurugan | 002990533 | 25% 
-Sivaranjani S | 002742197 | 25% 
-
 # Link to Live Applications
 ## Please Use these applications judiciously as we are running low on Free Credits, Deal ? 
 - Streamlit Application - http://34.138.127.169:8051
@@ -106,6 +97,3 @@ To run this project, you will need:
 - OPENAI_API_KEY=<openai_api_key> <- should be given in double quotes ("")
 - AWS_REGION=<AWS_REGION> <- should be given in double quotes ("")
 - S3_BUCKET_NAME=<S3_BUCKET_NAME> <- should be given in double quotes ("")
-
-### ATTESTATION:
-WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK.
