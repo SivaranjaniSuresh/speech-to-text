@@ -3,7 +3,7 @@
 This project is a speech-to-text pipeline that can transcribe audio files and generate a transcript of the speech. The project can also answer default and custom question asked by the user using the GPT-3.5 Turbo model.
 
 # Link to Live Applications
-## Please Use these applications judiciously as we are running low on Free Credits, Deal ? 
+## Please Use these applications judiciously as I am are running low on Free Credits, Deal ? 
 - Streamlit Application - http://34.138.127.169:8051
 - Airflow - http://34.138.127.169:8080
 - Codelabs - https://codelabs-preview.appspot.com/?file_id=13IiASFrZKI9m-6Wwch8DBNbi6ufG1J44GHJpRr1mhos#9
